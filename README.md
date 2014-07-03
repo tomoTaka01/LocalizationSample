@@ -1,0 +1,1 @@
+JavaFX localization Sample
